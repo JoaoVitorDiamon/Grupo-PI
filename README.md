@@ -2,8 +2,8 @@
 
 ## Integrantes
 ### Bruno Albefaro Alves Florencio  - [] 
-### Gabriel Fontes da Silva - [https://github.com/gabrielfontesdesousa]
-### Gabriella Kailanny das Chagas Maris [https://github.com/GabriellaMaris]
-### Joao Vitor Diamon Roldan dos Santos [https://github.com/JoaoVitorDiamon]
-### Khaleu Sanches Mancini - [https://github.com/khaleusanches]
-### Luis Felipe Schimidt - [https://github.com/feluispe]
+### [https://github.com/gabrielfontesdesousa](Gabriel Fontes da Silva)
+### [https://github.com/GabriellaMaris](Gabriella Kailanny das Chagas Maris )
+### [https://github.com/JoaoVitorDiamon](Joao Vitor Diamon Roldan dos Santos)
+### [https://github.com/khaleusanches] (Khaleu Sanches Mancini)
+### [https://github.com/feluispe](Luis Felipe Schimidt)
