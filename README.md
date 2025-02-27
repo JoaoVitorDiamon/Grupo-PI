@@ -13,6 +13,3 @@ Uma breve descrição
 
 [Joao Vitor Diamon Roldan dos Santos](https://github.com/JoaoVitorDiamon)
 
-[Khaleu Sanches Mancini](https://github.com/khaleusanches)
-
-[Luis Felipe Schimidt](https://github.com/feluispe)
